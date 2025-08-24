@@ -1,8 +1,11 @@
-# **Test Repository**
+
+<img width="845" height="385" alt="Screenshot 2025-08-24 at 6 27 15 PM" src="https://github.com/user-attachments/assets/bfc0922c-2eb6-4a66-b286-581d4abb1aa8" />
+
+<h1 align="center"> Test Content </h1>
 <br>
 <br>
 
-This repository contains a collection of Excel and text files documenting the tests performed during the QA Engineer's career, spanning from Sprint 1 to Sprint 7.
+This repository contains a collection of Excel and text files documenting the tests performed during the QA Engineer Bootcamp.
 <br>
 
 ### **Repository Content**<br>
