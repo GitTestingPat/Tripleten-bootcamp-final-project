@@ -39,7 +39,7 @@ This repository contains a collection of Excel and text files documenting the te
 <br><br>This text file contains a list of questions used to test a registration form during Sprint 6.
 
 <ins>**Sprint 7 Final Project**</ins>
-<br>[📊 **Documento principal:**](https://docs.google.com/spreadsheets/d/10W25MWw4TH9_u158vtrkYYiCi2AemuOefW9QXtSwmlM/edit?usp=sharing:)
+<br>[📊 **Principal Document:**](https://docs.google.com/spreadsheets/d/10W25MWw4TH9_u158vtrkYYiCi2AemuOefW9QXtSwmlM/edit?usp=sharing:)
 This Excel file includes the complete documentation of the final project developed during Sprint 7, including test cases, results, and observations.
 
 # **Tools and Technologies Used**
