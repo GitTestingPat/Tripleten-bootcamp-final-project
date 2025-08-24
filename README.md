@@ -10,30 +10,30 @@ This repository contains a collection of Excel and text files documenting the te
 #### **Archives**
 
 ##### 
-``` bash
+
 <ins>**Sprint 1 Equivalency Classes:**</ins> 
-<br>This Excel file contains the equivalency classes identified during Sprint 1, used for effective test case design.
-``` 
+<br><br>This Excel file contains the equivalency classes identified during Sprint 1, used for effective test case design.
+
 <ins>**Sprint 2 Checklist and test results design tests:**</ins> 
-<br>In this Excel file, you will find the checklist and test results of the design tests performed during Sprint 2.
+<br><br>In this Excel file, you will find the checklist and test results of the design tests performed during Sprint 2.
 
 <ins>**Sprint 3 API New Feature Checklist:**</ins>
-<br>This Excel file includes the checklist used to test a new API feature during Sprint 3.
+<br><br>This Excel file includes the checklist used to test a new API feature during Sprint 3.
 
 <ins>**Checklist API Test Report (Sprint 3):**</ins>
-<br>In this text file, you will find the API checklist and test report during Sprint 3.
+<br><br>In this text file, you will find the API checklist and test report during Sprint 3.
 
 <ins>**Sprint 4 Database Tables:**</ins>
-<br>This Excel file details the database tables used and tested during Sprint 4.
+<br><br>This Excel file details the database tables used and tested during Sprint 4.
 
 <ins>**Databases Test Results Report (Sprint 4):**</ins>
-<br>This text file provides a detailed report of the test results from the databases during Sprint 4.
+<br><br>This text file provides a detailed report of the test results from the databases during Sprint 4.
 
 <ins>**Sprint 5 Mobile Application Testing:**</ins>
-<br>This Excel file contains the test cases and results from testing a mobile application during Sprint 5.
+<br><br>This Excel file contains the test cases and results from testing a mobile application during Sprint 5.
 
 <ins>**Sprint 6 Registration Form Test Questions:**</ins>
-<br>This text file contains a list of questions used to test a registration form during Sprint 6.
+<br><br>This text file contains a list of questions used to test a registration form during Sprint 6.
 
 <ins>**Sprint 7 Final Project:**</ins>
 This Excel file includes the complete documentation of the final project developed during Sprint 7, including test cases, results, and observations.
