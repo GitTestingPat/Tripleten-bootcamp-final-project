@@ -12,7 +12,7 @@ This repository contains a collection of Excel and text files documenting the te
 
 ##### 
 
-<ins>**Sprint 1 Equivalency Classes:**</ins> 
+<ins>**Sprint 1 Equivalence Classes:**</ins> 
 <br>[📄 **Principal Document:**](https://docs.google.com/spreadsheets/d/1ZsQR5JDVzk0tKzHI2a63PDT5UOJJ0MAvcE270vgwqbY/edit?usp=sharing)
 This file contains the equivalency classes identified during Sprint 1, used for effective test case design.
 
