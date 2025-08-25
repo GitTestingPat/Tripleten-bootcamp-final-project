@@ -8,8 +8,6 @@
 This repository contains a collection of Excel and text files documenting the tests performed during the QA Engineer Bootcamp.
 <br>
 
-### **Repository Content**<br>
-
 #### **Archives**
 
 ##### 
