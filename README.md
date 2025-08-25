@@ -15,32 +15,32 @@ This repository contains a collection of Excel and text files documenting the te
 ##### 
 
 <ins>**Sprint 1 Equivalency Classes:**</ins> 
-<br><br>This Excel file contains the equivalency classes identified during Sprint 1, used for effective test case design.
+<br>[📄 **Principal Document:**](https://docs.google.com/spreadsheets/d/1ZsQR5JDVzk0tKzHI2a63PDT5UOJJ0MAvcE270vgwqbY/edit?usp=sharing)
+This file contains the equivalency classes identified during Sprint 1, used for effective test case design.
 
 <ins>**Sprint 2 Checklist and test results design tests:**</ins> 
-<br><br>In this Excel file, you will find the checklist and test results of the design tests performed during Sprint 2.
+<br>[🎯 **Principal Document:**](https://docs.google.com/spreadsheets/d/1YH92Bb3ZicBCLA1tXTKBs_YZyx-hTOutxvqGYrB8qMg/edit?usp=sharing)
+In this file, you will find the checklist and test results of the design tests performed during Sprint 2.
 
-<ins>**Sprint 3 API New Feature Checklist:**</ins>
-<br><br>This Excel file includes the checklist used to test a new API feature during Sprint 3.
-
-<ins>**Checklist API Test Report (Sprint 3):**</ins>
-<br><br>In this text file, you will find the API checklist and test report during Sprint 3.
+<ins>**Sprint 3 API New Feature Checklist and Test Report:**</ins>
+<br>[🚀 **Principal Document:**](https://docs.google.com/spreadsheets/d/1LlgBpQcPsf-fNfQS9yYuAKWxvVNrKnpbGNHuTz6pNO0/edit?usp=sharing)
+This file includes the checklist used to test a new API feature during Sprint 3.
 
 <ins>**Sprint 4 Database Tables:**</ins>
-<br><br>This Excel file details the database tables used and tested during Sprint 4.
-
-<ins>**Databases Test Results Report (Sprint 4):**</ins>
-<br><br>This text file provides a detailed report of the test results from the databases during Sprint 4.
+<br>[🧩 **Principal Document:**](https://docs.google.com/spreadsheets/d/1NNyriviDy3KFivwMrR60YotL-eT7749rDxvaUvmiIl4/edit?usp=sharing)
+This file provides a detailed database tables used tested and report of the test results during Sprint 4.
 
 <ins>**Sprint 5 Mobile Application Testing:**</ins>
-<br><br>This Excel file contains the test cases and results from testing a mobile application during Sprint 5.
+<br>[💾 **Principal Document:**](https://docs.google.com/spreadsheets/d/1N6XTc3Z7myjUBxbXWThdqxYeZBftSB1uxwl-ZBnhOIc/edit?usp=sharing)
+This file contains the test cases and results from testing a mobile application during Sprint 5.
 
 <ins>**Sprint 6 Registration Form Test Questions:**</ins>
-<br><br>This text file contains a list of questions used to test a registration form during Sprint 6.
+<br>[📂 **Principal Document:**](https://docs.google.com/spreadsheets/d/1KirLZpIfHyVTz4yOY3nt47RvQN-XR_MFs6PF0DkzBW8/edit?usp=sharing)
+This file contains a list of questions used to test a registration form during Sprint 6.
 
 <ins>**Sprint 7 Final Project**</ins>
 <br>[📊 **Principal Document:**](https://docs.google.com/spreadsheets/d/10W25MWw4TH9_u158vtrkYYiCi2AemuOefW9QXtSwmlM/edit?usp=sharing:)
-This Excel file includes the complete documentation of the final project developed during Sprint 7, including test cases, results, and observations.
+This file includes the complete documentation of the final project developed during Sprint 7, including test cases, results, and observations.
 
 # **Tools and Technologies Used**
 
